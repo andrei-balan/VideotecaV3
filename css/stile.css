@@ -1,0 +1,30 @@
+#catalogoFilm{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.card{
+    margin-left:10px;
+}
+
+.azione{
+  background-color: brown;
+  color:white;
+}
+
+.fantasy{
+  background-color: green;
+  color:white;
+}
+
+.fantascientifico{
+  background-color: red;
+  color:white;
+}
+
+header, footer{
+  text-align: center;
+}
